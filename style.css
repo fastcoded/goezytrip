@@ -5,10 +5,10 @@ body {
   margin: 0;
   font-family: 'Segoe UI', sans-serif;
   color: black;
-  background-color: #DDEAFF;
+  background-color: black;
 }
 nav {
-  background-color: #DDEAFF;
+  background-color: black;
   padding: 0.5rem;
   display: flex;
   align-items: center;
