@@ -1,45 +1,20 @@
 @import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200..800&display=swap');
 
-
-body {
-  margin: 0;
-  font-family: 'Segoe UI', sans-serif;
-  color: black;
-  background-color: 013D49;
+body{
+  background-color: rgb(253, 253, 253);
 }
-nav {
-  background-color: 013D49;
-  padding: 0.5rem;
+
+nav{
+  margin: 0%;
+  padding: 0.01px;
+  font-family: 'Dosis', sans-serif;
   display: flex;
-  align-items: center;
+  justify-content:center;
 }
-nav a {
-  color: black;
-  margin-right: 0.5rem;
-  margin-left: 0.5rem;
-  text-decoration: none;
+
+footer{
+  padding-top: 0.01px;
   font-family: "Dosis", sans-serif;
-}
-nav a:hover {
-  text-decoration: underline;
-}
-
-img {
-    margin-right: 59%;
-    margin-left: 0.rem;
-    
-}
-
-button {
-    border-radius: 0.3rem;
-    padding: 1rem;
-    margin-right: 1rem;
-    margin-left: 1rem;
-    font-family: "Dosis", sans-serif;
-}
-
-button:hover{
-    background-color: teal;
-    color: white;
-    
+  display: flex;
+  justify-content: center;
 }
